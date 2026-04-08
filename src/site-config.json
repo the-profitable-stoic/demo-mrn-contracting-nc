@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "MRN Contracting NC",
+    "phone": "+19194802700",
+    "category": "roofer",
+    "city": "Raleigh",
+    "state": "NC"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Raleigh's Roofing Authority",
+      "heroSubline": "Protecting your home with quality craftsmanship and lasting materials. MRN Contracting NC: Your trusted local roofing partner.",
+      "aboutTitle": "Built on Trust, Roofed in Quality",
+      "aboutText": [
+        "MRN Contracting NC started with a simple mission: to provide Raleigh homeowners with roofing solutions they can depend on. Founded by lifelong North Carolinian, [Founder Name], we saw a need for honest, reliable roofing services that prioritize quality and customer satisfaction. We're not just roofing houses; we're building relationships within our community.",
+        "Our approach is straightforward: thorough assessments, transparent communication, and meticulous workmanship. We believe in using only the best materials, tailored to withstand Raleigh's unique climate. From the sweltering summers to the occasional ice storm, we ensure your roof is ready for anything. We value integrity, precision, and a commitment to exceeding expectations on every project.",
+        "We're proud to be a part of the Raleigh community. We actively support local initiatives and believe in giving back. When you choose MRN Contracting NC, you're not just getting a new roof; you're supporting a local business that cares about its neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Raleigh's climate and housing styles, ensuring tailored roofing solutions."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use durable, weather-resistant materials designed to last for years."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. We provide clear, upfront estimates."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work with comprehensive warranties and dedicated customer support."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today!",
+      "ctaSubline": "Schedule a free roof inspection and get a detailed estimate. Call MRN Contracting NC now!"
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast, reliable roof repair services to protect your home from leaks and damage.",
+        "description": "From minor leaks to storm damage, MRN Contracting NC provides comprehensive roof repair services throughout Raleigh. We understand that even a small issue can quickly escalate, leading to costly damage to your home’s structure and belongings. That's why we offer prompt and efficient repair solutions tailored to your specific needs.\n\nOur experienced technicians will thoroughly assess the damage, identify the root cause, and provide a detailed repair plan. We work with all types of roofing materials, including asphalt shingles, metal roofing, and tile. Whether it's replacing damaged shingles, repairing flashing, or addressing leaks around chimneys and vents, we have the expertise to get the job done right.\n\nWe prioritize quality workmanship and use only the best materials to ensure lasting repairs. We'll work closely with you throughout the process, keeping you informed every step of the way. Don't let roof damage compromise the safety and value of your home. Contact MRN Contracting NC for reliable roof repair services you can trust.",
+        "process": [
+          "Step 1: Schedule a free inspection.",
+          "Step 2: Receive a detailed assessment and repair plan.",
+          "Step 3: Approve the estimate and schedule the repair.",
+          "Step 4: Enjoy a leak-free, secure roof."
+        ],
+        "benefits": [
+          "Prevents further damage to your home.",
+          "Extends the life of your roof.",
+          "Maintains the value of your property.",
+          "Provides peace of mind."
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof leak?",
+            "answer": "We prioritize emergency repairs and strive to respond as quickly as possible, often within 24 hours. Call us immediately to report the leak."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we provide 24/7 emergency roof repair services to address urgent issues like storm damage and severe leaks."
+          },
+          {
+            "question": "Will you work with my insurance company?",
+            "answer": "Absolutely. We have experience working with insurance companies and can assist you with the claims process."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Upgrade your home with a durable, beautiful new roof installed by Raleigh's experts.",
+        "description": "Is your roof nearing the end of its lifespan? Are you experiencing frequent leaks or extensive damage? A roof replacement from MRN Contracting NC can enhance the beauty, value, and protection of your home. We offer a wide selection of roofing materials to suit your style and budget, including asphalt shingles, metal roofing, and tile.\n\nOur experienced team will guide you through the entire process, from selecting the right materials to ensuring a flawless installation. We'll carefully remove your old roof, inspect the underlying structure for any damage, and install a new, high-quality roofing system that will last for years to come.\n\nWe understand that a roof replacement is a significant investment, and we're committed to providing you with exceptional service and value. We use only the best materials and employ proven installation techniques to ensure a durable, long-lasting roof that protects your home from the elements. Plus, a new roof can significantly improve your home's curb appeal and energy efficiency, potentially increasing its resale value. We're familiar with common Raleigh home styles, from the older ranch homes ITB to the newer developments in North Hills, and can advise on the best roofing options to complement your property.",
+        "process": [
+          "Step 1: Schedule a free consultation.",
+          "Step 2: Choose your roofing materials and style.",
+          "Step 3: Approve the estimate and schedule the installation.",
+          "Step 4: Enjoy your beautiful, new roof."
+        ],
+        "benefits": [
+          "Increases the value of your home.",
+          "Enhances curb appeal.",
+          "Provides superior protection from the elements.",
+          "Improves energy efficiency."
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the job, but it usually takes between 1-3 days."
+          },
+          {
+            "question": "What types of roofing materials do you offer?",
+            "answer": "We offer a variety of roofing materials, including asphalt shingles, metal roofing, tile, and more. We can help you choose the best option for your home and budget."
+          },
+          {
+            "question": "Do you offer financing options for roof replacement?",
+            "answer": "Yes, we offer flexible financing options to make your roof replacement more affordable."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspections",
+        "name": "Roof Inspections",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems and prevent costly repairs.",
+        "description": "Protect your investment with a professional roof inspection from MRN Contracting NC. Regular roof inspections are essential for identifying potential problems early and preventing costly repairs down the road. Our certified inspectors will thoroughly assess your roof, looking for signs of damage, wear and tear, and potential leaks.\n\nWe'll examine all aspects of your roof, including the shingles, flashing, gutters, and vents. We'll also check for signs of water damage in your attic and around your home's exterior. Following the inspection, we'll provide you with a detailed report outlining our findings and recommendations.\n\nA roof inspection is particularly important after severe weather events, such as heavy rain, wind, or hail. These events can cause hidden damage that may not be immediately apparent. By scheduling a post-storm inspection, you can identify and address any damage before it leads to more serious problems. Given the spring storm season in Raleigh, it's a smart move to inspect your roof annually.",
+        "process": [
+          "Step 1: Schedule a convenient inspection time.",
+          "Step 2: Our inspector will conduct a thorough assessment.",
+          "Step 3: Receive a detailed report with findings and recommendations.",
+          "Step 4: Discuss repair options and prevent future problems."
+        ],
+        "benefits": [
+          "Identifies potential problems early.",
+          "Prevents costly repairs.",
+          "Extends the life of your roof.",
+          "Provides peace of mind."
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, and after any severe weather events."
+          },
+          {
+            "question": "What does a roof inspection include?",
+            "answer": "Our roof inspections include a thorough assessment of all aspects of your roof, including shingles, flashing, gutters, vents, and attic."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "We offer free roof inspections to homeowners in the Raleigh area."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Protect your home from water damage with professional gutter installation, repair, and cleaning.",
+        "description": "Properly functioning gutters are essential for protecting your home from water damage. MRN Contracting NC offers comprehensive gutter services, including installation, repair, and cleaning. We understand that Raleigh's Piedmont red clay soil can exacerbate drainage issues, making gutters all the more important.\n\nWe install high-quality gutters that are designed to effectively channel water away from your home's foundation, preventing water damage, erosion, and basement leaks. We also offer gutter repair services to address leaks, clogs, and other issues that can compromise their performance.\n\nRegular gutter cleaning is essential for maintaining their functionality. Clogged gutters can cause water to overflow, leading to damage to your roof, siding, and foundation. We provide professional gutter cleaning services to remove leaves, debris, and other obstructions, ensuring that your gutters are functioning properly.",
+        "process": [
+          "Step 1: Schedule a free estimate.",
+          "Step 2: Choose your gutter style and material.",
+          "Step 3: Approve the estimate and schedule the installation or cleaning.",
+          "Step 4: Enjoy properly functioning gutters."
+        ],
+        "benefits": [
+          "Protects your home from water damage.",
+          "Prevents erosion and foundation problems.",
+          "Extends the life of your roof and siding.",
+          "Maintains the value of your property."
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, or more often if you have trees near your home."
+          },
+          {
+            "question": "What types of gutters do you install?",
+            "answer": "We install a variety of gutter styles, including seamless gutters, K-style gutters, and half-round gutters."
+          },
+          {
+            "question": "Do you offer gutter guards?",
+            "answer": "Yes, we offer gutter guards to prevent leaves and debris from clogging your gutters."
+          }
+        ]
+      },
+      {
+        "slug": "skylight-services",
+        "name": "Skylight Services",
+        "shortDescription": "Brighten your home with professional skylight installation and repair services.",
+        "description": "Bring natural light into your home with skylight services from MRN Contracting NC. We offer professional skylight installation and repair services to enhance the beauty and functionality of your home. Skylights can transform dark and dreary rooms into bright and inviting spaces.\n\nOur experienced technicians can install a variety of skylight styles, including fixed skylights, venting skylights, and tubular skylights. We'll work with you to choose the right skylight for your needs and budget. We also offer skylight repair services to address leaks, cracks, and other issues that can compromise their performance.\n\nA properly installed and maintained skylight can add value and beauty to your home. Contact MRN Contracting NC for professional skylight services you can trust. We're familiar with skylights in older homes in Five Points, as well as newer installations in Brier Creek.",
+        "process": [
+          "Step 1: Schedule a free consultation.",
+          "Step 2: Choose your skylight style and size.",
+          "Step 3: Approve the estimate and schedule the installation or repair.",
+          "Step 4: Enjoy natural light in your home."
+        ],
+        "benefits": [
+          "Adds natural light to your home.",
+          "Enhances the beauty of your interior spaces.",
+          "Increases the value of your property.",
+          "Improves energy efficiency."
+        ],
+        "faq": [
+          {
+            "question": "What types of skylights do you install?",
+            "answer": "We install a variety of skylight styles, including fixed skylights, venting skylights, and tubular skylights."
+          },
+          {
+            "question": "How much does it cost to install a skylight?",
+            "answer": "The cost of skylight installation depends on the size, style, and complexity of the job. We offer free estimates."
+          },
+          {
+            "question": "Do you offer skylight repair services?",
+            "answer": "Yes, we offer skylight repair services to address leaks, cracks, and other issues."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-roofing",
+        "name": "Emergency Roofing Services",
+        "shortDescription": "24/7 emergency roofing services to protect your home from unexpected damage.",
+        "description": "When disaster strikes, MRN Contracting NC is here to help with 24/7 emergency roofing services. We understand that roof damage can occur at any time, and we're committed to providing prompt and reliable emergency repairs to protect your home from further damage. Whether it's a fallen tree after a spring thunderstorm or wind damage from a sudden gust, we're ready to respond.\n\nOur experienced technicians will quickly assess the damage and implement temporary repairs to prevent further water intrusion. We'll then work with you to develop a comprehensive repair plan to restore your roof to its original condition. We also assist with insurance claims to help you navigate the process smoothly.\n\nDon't let roof damage compromise the safety and security of your home. Contact MRN Contracting NC for immediate emergency roofing assistance. We're available 24 hours a day, 7 days a week.",
+        "process": [
+          "Step 1: Call our emergency hotline.",
+          "Step 2: Our team will quickly assess the damage.",
+          "Step 3: We'll implement temporary repairs.",
+          "Step 4: We'll develop a comprehensive repair plan."
+        ],
+        "benefits": [
+          "Provides immediate protection from further damage.",
+          "Prevents water intrusion and mold growth.",
+          "Restores the safety and security of your home.",
+          "Assists with insurance claims."
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a roofing emergency?",
+            "answer": "A roofing emergency includes situations like severe leaks, storm damage, fallen trees, and other events that compromise the integrity of your roof."
+          },
+          {
+            "question": "How quickly can you respond to a roofing emergency?",
+            "answer": "We strive to respond to roofing emergencies as quickly as possible, often within hours of your call."
+          },
+          {
+            "question": "Do you work with insurance companies on emergency roofing claims?",
+            "answer": "Yes, we have experience working with insurance companies and can assist you with the claims process."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Durham",
+        "slug": "durham-nc",
+        "state": "NC",
+        "content": "MRN Contracting NC is proud to offer our roofing services to the vibrant city of Durham, North Carolina. From the renovated industrial lofts downtown to the historic homes in Trinity Park, we understand the diverse roofing needs of Durham residents. We are committed to providing top-quality roofing solutions that protect your home or business from the elements.\n\nDurham experiences hot, humid summers, which can put a strain on your roof. Our team is experienced in installing and repairing roofs that can withstand the North Carolina climate. We offer a variety of roofing materials to choose from, so you can find the perfect option for your property and budget. We also provide thorough inspections to identify potential problems before they become major issues.\n\nWhether you need a new roof installation, roof repair, or routine maintenance, MRN Contracting NC is here to help. We are dedicated to providing exceptional customer service and quality workmanship.",
+        "localContext": "Durham's blend of historic architecture and modern development, combined with its growing population, creates a diverse range of roofing needs that MRN Contracting NC is equipped to handle.",
+        "nearbyAreas": [
+          "Chapel Hill",
+          "Raleigh",
+          "Morrisville"
+        ]
+      },
+      {
+        "city": "Cary",
+        "slug": "cary-nc",
+        "state": "NC",
+        "content": "MRN Contracting NC is dedicated to serving the residents of Cary, North Carolina, with reliable and professional roofing services. Known for its master-planned communities developed from the 1980s through the 2000s, Cary presents unique roofing requirements that we are well-equipped to address. We understand the importance of maintaining the aesthetic appeal and structural integrity of your home.\n\nCary's hot and humid summers can be particularly harsh on roofing materials. MRN Contracting NC offers a comprehensive range of roofing services, from installation and repair to maintenance and inspections, designed to protect your home from the elements. We use only the highest quality materials and employ skilled professionals to ensure your roof stands the test of time.\n\nFrom addressing storm damage to providing routine maintenance, MRN Contracting NC is committed to delivering exceptional customer service and unparalleled workmanship to the Cary community.",
+        "localContext": "Cary's emphasis on well-maintained neighborhoods means homeowners value quality roofing that protects their investment and enhances curb appeal; MRN Contracting NC is here to provide that.",
+        "nearbyAreas": [
+          "Apex",
+          "Morrisville",
+          "Raleigh"
+        ]
+      },
+      {
+        "city": "Chapel Hill",
+        "slug": "chapel-hill-nc",
+        "state": "NC",
+        "content": "MRN Contracting NC is pleased to provide roofing services to the diverse community of Chapel Hill, North Carolina. Home to the University of North Carolina, Chapel Hill features a wide range of housing styles, from historic homes to modern apartments. We understand the unique roofing needs of each property and are committed to providing tailored solutions.\n\nChapel Hill experiences hot and humid summers, which can take a toll on roofs. We offer a variety of roofing materials to choose from, including asphalt shingles, metal roofing, and tile roofing. Our team of experienced professionals can help you select the best option for your home or business. We are also skilled in repairing and maintaining all types of roofs.\n\nMRN Contracting NC is dedicated to providing exceptional customer service and quality workmanship to the residents of Chapel Hill. Whether you need a new roof, a roof repair, or routine maintenance, we are here to help.",
+        "localContext": "Chapel Hill's mix of student housing and established neighborhoods means that roofing projects often require navigating specific HOA guidelines and historical preservation considerations, something MRN Contracting NC is familiar with.",
+        "nearbyAreas": [
+          "Durham",
+          "Carrboro",
+          "Hillsborough"
+        ]
+      },
+      {
+        "city": "Apex",
+        "slug": "apex-nc",
+        "state": "NC",
+        "content": "MRN Contracting NC is proud to serve the rapidly growing town of Apex, North Carolina. Known for its newer family developments built from the 2000s to the 2020s, Apex presents a unique set of roofing needs. We are committed to providing quality roofing solutions that protect your home and family.\n\nThe hot and humid summers in Apex can be particularly challenging for roofs. MRN Contracting NC offers a wide range of roofing services, including new roof installations, roof repairs, and roof maintenance. We use only the highest quality materials and employ skilled professionals to ensure your roof is built to last.\n\nFrom addressing storm damage to providing routine inspections, MRN Contracting NC is dedicated to delivering exceptional customer service and unparalleled workmanship to the Apex community.",
+        "localContext": "Apex's focus on new construction and family-friendly neighborhoods means homeowners prioritize durable and aesthetically pleasing roofing that complements their home's design; MRN Contracting NC delivers on this expectation.",
+        "nearbyAreas": [
+          "Cary",
+          "Holly Springs",
+          "Fuquay-Varina"
+        ]
+      },
+      {
+        "city": "Morrisville",
+        "slug": "morrisville-nc",
+        "state": "NC",
+        "content": "MRN Contracting NC is pleased to offer our roofing services to the thriving town of Morrisville, North Carolina. Home to many tech workers and located near the Research Triangle Park (RTP), Morrisville boasts a diverse range of housing options. We understand the unique roofing needs of each property and are committed to providing tailored solutions.\n\nThe hot and humid summers in Morrisville can be harsh on roofs. MRN Contracting NC offers a variety of roofing materials to choose from, including asphalt shingles, metal roofing, and tile roofing. Our team of experienced professionals can help you select the best option for your home or business. We are also skilled in repairing and maintaining all types of roofs.\n\nMRN Contracting NC is dedicated to providing exceptional customer service and quality workmanship to the residents of Morrisville. Whether you need a new roof, a roof repair, or routine maintenance, we are here to help.",
+        "localContext": "Morrisville's concentration of tech professionals means homeowners often seek energy-efficient and technologically advanced roofing solutions, which MRN Contracting NC can provide.",
+        "nearbyAreas": [
+          "Cary",
+          "Raleigh",
+          "Durham"
+        ]
+      },
+      {
+        "city": "Raleigh",
+        "slug": "raleigh-nc",
+        "state": "NC",
+        "content": "MRN Contracting NC proudly serves the capital city of Raleigh, North Carolina. As a growing metropolitan area, Raleigh presents a diverse array of roofing needs, from historic homes in Oakwood to modern developments in North Raleigh. We are committed to providing comprehensive roofing solutions to protect your home or business.\n\nRaleigh's humid subtropical climate can be challenging for roofing materials. We offer a wide selection of durable and weather-resistant roofing options, including asphalt shingles, metal roofing, and tile. Our experienced team of professionals can assess your specific needs and recommend the best solution for your property.\n\nFrom roof repairs and replacements to routine maintenance and inspections, MRN Contracting NC is dedicated to delivering exceptional customer service and quality workmanship to the Raleigh community.",
+        "localContext": "As the state capital, Raleigh's diverse neighborhoods and architectural styles require a roofing contractor with experience handling a wide range of projects, something MRN Contracting NC offers.",
+        "nearbyAreas": [
+          "Cary",
+          "Apex",
+          "Wake Forest"
+        ]
+      },
+      {
+        "city": "Wake Forest",
+        "slug": "wake-forest-nc",
+        "state": "NC",
+        "content": "MRN Contracting NC is pleased to offer roofing services to the growing community of Wake Forest, North Carolina. With a mix of historic charm and new developments, Wake Forest presents a variety of roofing needs. We are committed to providing reliable and professional roofing solutions to protect your home.\n\nWake Forest experiences hot and humid summers, which can be tough on roofs. MRN Contracting NC offers a comprehensive range of roofing services, from installation and repair to maintenance and inspections, designed to withstand the North Carolina climate. We use high-quality materials and skilled professionals to ensure your roof is built to last.\n\nFrom addressing storm damage to providing routine maintenance, MRN Contracting NC is dedicated to delivering exceptional customer service and unparalleled workmanship to the Wake Forest community.",
+        "localContext": "Wake Forest's blend of historic homes and new construction means homeowners value roofing that respects the town's character while providing modern protection, something MRN Contracting NC understands.",
+        "nearbyAreas": [
+          "Raleigh",
+          "Rolesville",
+          "Youngsville"
+        ]
+      },
+      {
+        "city": "Fuquay-Varina",
+        "slug": "fuquay-varina-nc",
+        "state": "NC",
+        "content": "MRN Contracting NC is proud to serve the residents of Fuquay-Varina, North Carolina, with top-quality roofing services. As a rapidly growing town with a mix of historic and new construction, Fuquay-Varina presents diverse roofing needs. We are committed to providing tailored solutions to protect your home or business.\n\nThe hot and humid summers in Fuquay-Varina can be particularly demanding on roofing materials. MRN Contracting NC offers a wide range of roofing options, including asphalt shingles, metal roofing, and tile roofing, all designed to withstand the North Carolina climate. Our experienced team can help you choose the best option for your property.\n\nFrom roof repairs and replacements to routine maintenance and inspections, MRN Contracting NC is dedicated to delivering exceptional customer service and quality workmanship to the Fuquay-Varina community.",
+        "localContext": "Fuquay-Varina's growing population and blend of old and new homes require a roofing contractor that can handle diverse projects with skill and professionalism, as offered by MRN Contracting NC.",
+        "nearbyAreas": [
+          "Apex",
+          "Holly Springs",
+          "Willow Spring"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "MRN Contracting NC was fantastic! We had a bad leak after a storm, and they came out the same day to assess the damage. They explained everything clearly and fixed the problem quickly and efficiently. Highly recommend!",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "The team did a great job cleaning my gutters. They were overflowing with leaves, and now they're working perfectly. They were professional and courteous, and the price was fair.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "We recently had our entire roof replaced by MRN Contracting NC, and we couldn't be happier. The crew was professional, efficient, and did an excellent job. The new roof looks amazing and has already improved the curb appeal of our home. They even helped us choose the right shingle color!",
+        "date": "2025-03-10"
+      },
+      {
+        "name": "Tom S.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "MRN Contracting NC provided a very thorough roof inspection. The inspector was knowledgeable and took the time to explain his findings in detail. He identified some potential problems that we were able to address before they became major issues.",
+        "date": "2025-02-01"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 4,
+        "service": "Skylight Repair",
+        "text": "We had a leak around our skylight, and MRN Contracting NC was able to fix it quickly and effectively. They were professional and courteous, and the price was reasonable. No more leaks!",
+        "date": "2025-01-18"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Emergency Roofing Services",
+        "text": "After a tree fell on our roof during a storm, MRN Contracting NC responded immediately. They secured the area, prevented further damage, and provided a temporary fix until they could do a full repair. Their quick response saved us from serious water damage.",
+        "date": "2024-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "MRN Contracting NC | Raleigh Roofing",
+        "description": "Raleigh's trusted roofing contractor. Roof repair, replacement, inspections. Quality, local expertise you can rely on."
+      },
+      "about": {
+        "title": "About MRN Contracting NC | Raleigh Roofer",
+        "description": "Learn about MRN Contracting NC's commitment to quality roofing in Raleigh. Local expertise, reliable service, and community focus."
+      },
+      "services": {
+        "title": "Raleigh Roofing Services | MRN Contracting NC",
+        "description": "Comprehensive roofing services in Raleigh: repair, replacement, inspections, gutters, skylights. Protect your home with quality craftsmanship."
+      },
+      "contact": {
+        "title": "Contact MRN Contracting NC | Raleigh Roofing",
+        "description": "Contact MRN Contracting NC for a free roofing estimate in Raleigh. Call us for repairs, replacements, and inspections."
+      },
+      "reviews": {
+        "title": "MRN Contracting NC Reviews | Raleigh Roofing",
+        "description": "Read reviews for MRN Contracting NC. See what our Raleigh customers say about our roofing repair, replacement, and inspection services."
+      },
+      "service-areas": {
+        "title": "Service Areas | MRN Contracting NC",
+        "description": "MRN Contracting NC provides roofing services in Raleigh, Durham, Cary, and surrounding areas. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-inspections": "/images/service-roof-inspections.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "skylight-services": "/images/service-skylight-services.webp",
+      "emergency-roofing": "/images/service-emergency-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspections": {
+        "src": "/images/service-roof-inspections.webp",
+        "srcset": "/images/service-roof-inspections-400w.webp 400w, /images/service-roof-inspections-800w.webp 800w, /images/service-roof-inspections-1200w.webp 1200w, /images/service-roof-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "skylight-services": {
+        "src": "/images/service-skylight-services.webp",
+        "srcset": "/images/service-skylight-services-400w.webp 400w, /images/service-skylight-services-800w.webp 800w, /images/service-skylight-services-1200w.webp 1200w, /images/service-skylight-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-roofing": {
+        "src": "/images/service-emergency-roofing.webp",
+        "srcset": "/images/service-emergency-roofing-400w.webp 400w, /images/service-emergency-roofing-800w.webp 800w, /images/service-emergency-roofing-1200w.webp 1200w, /images/service-emergency-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
